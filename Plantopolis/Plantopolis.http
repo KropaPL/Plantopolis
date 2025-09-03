@@ -1,0 +1,6 @@
+@Plantopolis_HostAddress = http://localhost:5177
+
+GET {{Plantopolis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
